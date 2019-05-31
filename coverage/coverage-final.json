@@ -1,0 +1,2 @@
+{"/Users/duherb/Desktop/jestRig/src/functions.js": {"path":"/Users/duherb/Desktop/jestRig/src/functions.js","statementMap":{"0":{"start":{"line":2,"column":2},"end":{"line":2,"column":51}}},"fnMap":{"0":{"name":"greeting","decl":{"start":{"line":1,"column":16},"end":{"line":1,"column":24}},"loc":{"start":{"line":1,"column":26},"end":{"line":3,"column":1}},"line":1}},"branchMap":{},"s":{"0":1},"f":{"0":1},"b":{},"_coverageSchema":"43e27e138ebf9cfc5966b082cf9a028302ed4184","hash":"6bc69520a54942de7ff6abaa362ea945a7479ed7"}
+}
