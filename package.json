@@ -5,7 +5,7 @@
   "scripts": {
     "build": "webpack --mode development",
     "start": "npm run build; webpack-dev-server --open --mode development",
-    "lint": "esling src/*.js",
+    "lint": "eslint src/*.js",
     "test": "jest --watchAll --coverage --verbose"
   },
   "keywords": [],
